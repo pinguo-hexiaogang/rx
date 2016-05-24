@@ -5,3 +5,5 @@
 /.idea
 .DS_Store
 /build
+RxTest.iml
+app/app.iml
